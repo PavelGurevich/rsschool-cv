@@ -64,3 +64,6 @@ Console.WriteLine("Программа завершена");
 ## Education
 Francisk Skorina Gomel State University
 ****
+
+## Level of knowledge English
+A2
